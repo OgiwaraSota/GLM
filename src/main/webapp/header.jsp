@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 </head>
 <body>
-	<h1 class="title"><a href="describe.jsp">GOMI Language Model</h1>
+	<h1 class="title"><a href="index.jsp">GOMI Language Model</h1>
 	<div class="header-container">
         <nav>
             <ul>
